@@ -1,5 +1,5 @@
 # na1307
-Hi, I’m na1307 (aka Bluehill395).
+Hi, I’m na1307 (aka Bluehill).
 
 <!---
 - 👋 Hi, I’m @na1307
