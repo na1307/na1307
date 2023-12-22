@@ -1,5 +1,5 @@
-# na1307
-Hi, I’m na1307 (aka Bluehill).
+# Bluehill
+Hi, I’m Bluehill. I like C# and .NET.
 
 <!---
 - 👋 Hi, I’m @na1307
