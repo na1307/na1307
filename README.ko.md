@@ -30,6 +30,10 @@
 
 ## 📝 최근 블로그 글
 <!-- BLOG-POSTS:START -->
+- [엑스박스 컨트롤러](https://blog.naver.com/na1307-/224092460933?fromRss=true&trackingCode=rss) — 2025-11-29
+  
+  이걸 왜 샀냐면... 레이싱 게임은 컨트롤러라도 있는게 좋다고 들었기 때문입니다. 그리고 기분도 내고 싶었고. 박스는 이렇게 생겼습니다. 박스 밑면. 컨트롤러. 빨간 색으로...
+
 - [Hyper-V와 VMware를 재부팅만으로 제대로 사용하기](https://blog.naver.com/na1307-/224020672502?fromRss=true&trackingCode=rss) — 2025-09-24
   
   제목이 뭐라 하는지를 감이 잘 오지 않으실텐데, 밑에서 설명하겠습니다. 기본적으로는 WSL 2와 VMware Workstation을 동시에 사용할 수 없습니다. 중첩 가상화를...
@@ -37,10 +41,6 @@
 - [S25 One UI 8 정식 배포](https://blog.naver.com/na1307-/224010303467?fromRss=true&trackingCode=rss) — 2025-09-16
   
   어제(15일)부로 지난 5월부터 진행되었던 S25 One UI 8 베타가 종료되고 정식 버전이 배포되었습니다. 베타에 참여하지 않은 사용자들도 업데이트가 가능합니다.
-
-- [스팀에서 녹화한 영상을 인코딩하는 방법](https://blog.naver.com/na1307-/223938614298?fromRss=true&trackingCode=rss) — 2025-07-18
-  
-  서론은 생략하고 바로 본론으로 들어가겠습니다. C:\Program Files (x86)\Steam\userdata\(임의의 숫자)로 들어가 보면 gamerecordings 폴...
 <!-- BLOG-POSTS:END -->
 
 ---
